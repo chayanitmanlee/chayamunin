@@ -124,14 +124,14 @@
                                                     <div class="portfolio-item-hover">
                                                         <i class="fa fa-plus"></i>
                                                     </div>
-                                                    <img src="img/portfolio-img1.jpg" class="img-responsive" alt="Portfolio">
+                                                    <img src="portfolio-img1.jpg" class="img-responsive" alt="Portfolio">
                                                 </a>
                                             </div>
                                         </div>
 
                                         <div class="work-box web col-md-4 col-sm-6">
                                             <div class="portfolio-thumb">
-                                                <a href="img/portfolio-img2.jpg" class="image-popup">
+                                                <a href="portfolio-img2.jpg" class="image-popup">
                                                     <div class="portfolio-item-hover">
                                                         <i class="fa fa-plus"></i>
                                                     </div>

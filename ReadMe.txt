@@ -85,7 +85,7 @@
                         <div class="row">
                             <div class="col-md-offset-2 col-md-8 col-sm-12">
                                 <video width="700" controls>
-                                    <source src="vdo/vdo1.mp4" type="video/mp4">
+                                    <source src="vdo1.mp4" type="video/mp4">
                                 </video>
                             </div>
                         </div>
